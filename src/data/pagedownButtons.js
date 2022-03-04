@@ -46,6 +46,10 @@ export default [{
   title: 'Link',
   icon: 'link-variant',
 }, {
+  method: 'addimage',
+  title: 'Add Image',
+  icon: 'file-plus',
+}, {
   method: 'image',
   title: 'Image',
   icon: 'file-image',
